@@ -7,62 +7,62 @@ import { ChevronLeft, ChevronRight } from 'lucide-react'
 
 const photos = [
   { 
-    src: '/images/DJI_0006.jpg', 
+    src: '/images/bulk images/DJI_0006.jpg', 
     title: 'Aerial Majesty', 
     subtitle: 'Capturing the world from above' 
   },
   { 
-    src: '/images/DJI_0008.jpg', 
+    src: '/images/bulk images/DJI_0008.jpg', 
     title: 'Endless Horizons', 
     subtitle: 'Where sky meets earth in perfect harmony' 
   },
   { 
-    src: '/images/DJI_0013.jpg', 
+    src: '/images/bulk images/DJI_0013.jpg', 
     title: 'Patterns in Nature', 
     subtitle: 'Hidden geometries revealed from the sky' 
   },
   { 
-    src: '/images/DJI_0050.jpg', 
+    src: '/images/bulk images/DJI_0050.jpg', 
     title: 'Coastal Dreams', 
     subtitle: 'Where waves dance with golden shores' 
   },
   { 
-    src: '/images/DJI_0065.jpg', 
+    src: '/images/bulk images/DJI_0065.jpg', 
     title: 'Mountain Grandeur', 
     subtitle: 'Peaks that touch the soul' 
   },
   { 
-    src: '/images/DJI_0067.jpg', 
+    src: '/images/bulk images/DJI_0067.jpg', 
     title: 'Natural Architecture', 
     subtitle: 'Earth\'s masterpiece from above' 
   },
   { 
-    src: '/images/DJI_0076.jpg', 
+    src: '/images/bulk images/DJI_0076.jpg', 
     title: 'Scenic Wonder', 
     subtitle: 'Beauty that takes your breath away' 
   },
   { 
-    src: '/images/DJI_0094.jpg', 
+    src: '/images/bulk images/DJI_0094.jpg', 
     title: 'Aerial Symphony', 
     subtitle: 'When composition meets nature' 
   },
   { 
-    src: '/images/DSC00539.jpg', 
+    src: '/images/bulk images/DSC00539.jpg', 
     title: 'Adventure Awaits', 
     subtitle: 'Every moment tells a story' 
   },
   { 
-    src: '/images/DSC00543.jpg', 
+    src: '/images/bulk images/DSC00543.jpg', 
     title: 'Journey Captured', 
     subtitle: 'Memories frozen in time' 
   },
   { 
-    src: '/images/DSC00587.jpg', 
+    src: '/images/bulk images/DSC00587.jpg', 
     title: 'Nature\'s Canvas', 
     subtitle: 'Raw beauty in its purest form' 
   },
   { 
-    src: '/images/DSC00599.jpg', 
+    src: '/images/bulk images/DSC00599.jpg', 
     title: 'Epic Moments', 
     subtitle: 'When adventure becomes art' 
   },
